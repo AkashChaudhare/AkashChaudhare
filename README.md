@@ -16,5 +16,3 @@ Data Engineer | Python, SQL, AWS, Snowflake, dbt, Databricks | Building scalable
   <!-- Add more: databricks, dbt via Shields.io badges -->
 </div>
 
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
